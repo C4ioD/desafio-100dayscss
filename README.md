@@ -7,7 +7,6 @@ O principal objetivo deste desafio é construir um projeto todos os dias por 100
 
 ## Regras
 * Realizar um projeto por dia
-* Compartilhar nas mídias sociais usando a hashtag #100DaysCSS
 * O projeto deve ser concluído até 23:59 de cada dia
 * Caso não seja possível fazer o projeto naquele dia, sem grilos! Basta continuar a sequência! O importante é manter constância!
 
