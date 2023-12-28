@@ -20,3 +20,9 @@ O principal objetivo deste desafio é construir um projeto todos os dias por 100
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
 </div>
+
+## 💻 Status dos Desafios:
+
+*  Day1 - ✅ - <a href="https://github.com/C4ioD/desafio-100dayscss/tree/main/Day%20%231">LINK</a>
+*  Day2 - ✅ - <a href="https://github.com/C4ioD/desafio-100dayscss/tree/main/Day%20%232">LINK</a>
+
